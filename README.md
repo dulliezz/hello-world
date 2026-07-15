@@ -1,2 +1,4 @@
 # 2026ソフトウェア工学演習
-第11回 演習課題
+講義の学習内容のまとめは以下を参照:
+
+[softwareEng Lecture Notes](./docs/softwareEng2026.md)
