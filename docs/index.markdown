@@ -9,4 +9,4 @@ title: "ソフトウェア工学 2026"
 
 git/github 演習
 
-[SoftwareEng Lecture Notes](softwareEng2026.md)
+[softwareEng Lecture Notes](softwareEng2026.md)
