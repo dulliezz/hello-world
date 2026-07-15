@@ -1,7 +1,7 @@
 import math, sys;
 
 def example1():
-    ####This is a long comment. This should be wrapped to fit within 72 characters.
+    # This is a long comment. This should be wrapped to fit within 72 characters.
     some_tuple=(   1,2, 3,'a'  );
     some_variable={'long':'Long code lines should be wrapped within 79 characters.',
     'other':[math.pi, 100,200,300,9876543210,'This is a long string that goes on'],
@@ -11,7 +11,7 @@ def example1():
 def example2(): return {'has_key() is deprecated':True}.has_key({'f':2}.has_key(''));
 class Example3(   object ):
     def __init__    ( self, bar ):
-     #Comments should have a space after the hash.
+     # Comments should have a space after the hash.
      if bar : bar+=1;  bar=bar* bar   ; return bar
      else:
                     some_string = """
